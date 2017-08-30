@@ -1,10 +1,8 @@
 # Site settings
 baseurl = "https://example.org/"
-publishDir = "docs"
 languageCode = "en-us"
-title = "STARE"
-theme = "digitalCraftman"
-
+title = "Agency"
+theme = "hugo-agency-theme"
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
@@ -77,9 +75,9 @@ googleAnalytics = ""
   [params.hero]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
-    title = "Welcome to STARE Technology!"
-    subtitle = "Best IT Solution for you"
-    buttonText = "Tell me More"
+    title = "Welcome To Our Studio!"
+    subtitle = "It's nice to meet you"
+    buttonText = "Tell me more"
 
 
   # Services section
