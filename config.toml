@@ -25,7 +25,7 @@ googleAnalytics = ""
   # Link custom assets relative to /static
   custom_css = []
   custom_js  = []
-  favicon    = "favicon.ico"
+  favicon    = "stare.ico"
 
   # Possibility to disable external/additional fonts
   # Exception: Fontawesome
@@ -49,7 +49,7 @@ googleAnalytics = ""
   [params.navigation]
     brand = "STARE"
     # Optional logo as brand stored in img/
-    logo = "logo.svg"
+    # logo = "logo.svg"
     services = "Services"
     portfolio = "Portfolio"
     about = "About"
@@ -174,18 +174,10 @@ googleAnalytics = ""
     # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
     [[params.team.members]]
       img = "1.jpg"
-      name = "Kay Garland"
-      position = "Lead Designer"
-      reportsTo = "CTO"
-      livesIn = "[Munich, Germany](#some-maps-url)"
-      scope = [
-        "UX for [member dashboard](#)",
-        "Maintainer for [awesome-project](#)",
-        "Open Source [community management](#)"
-      ]
+      name = "Sofyan Hadi Ahmad"
+      position = "CTO"
+      livesIn = "[Jakarta, Indonesian](#some-maps-url)"
       # For bio markdown and even multiline strings are available.
-      bio = """Kay is an awesome Lead Designer with heaps of experience in the field of UX.
-She worked at Pied Piper for years until they went belly up."""
       social = [
         ["fa-twitter", "#"],
         ["fa-facebook", "#"],
@@ -194,8 +186,8 @@ She worked at Pied Piper for years until they went belly up."""
 
     [[params.team.members]]
       img = "2.jpg"
-      name = "Larry Parker"
-      position = "Lead Marketer"
+      name = "Gustao Chardea"
+      position = "Senior Developer"
       social = [
         ["fa-twitter", "#"],
         ["fa-facebook", "#"],
@@ -204,8 +196,8 @@ She worked at Pied Piper for years until they went belly up."""
 
     [[params.team.members]]
       img = "3.jpg"
-      name = "Diana Pertersen"
-      position = "Lead Developer"
+      name = "Alnore Falah"
+      position = "Lead Designer"
       social = [
         ["fa-twitter", "#"],
         ["fa-facebook", "#"],
