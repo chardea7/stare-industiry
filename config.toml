@@ -1,9 +1,9 @@
 # Site settings
-baseurl = "https://chardea7.github.io/stare-industiry/"
+baseURL = "https://chardea7.github.io/stare-industiry/"
 publishDir = "docs"
 languageCode = "en-us"
 title = "STARE"
-theme = "digitalCraftman"
+theme = "digitalcraftman"
 
 
 # Enter your tracking code to enable Google Analytics
