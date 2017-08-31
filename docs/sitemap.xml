@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.org/post/first-post/</loc>
+    <loc>https://chardea7.github.io/stare-industry/post/first-post/</loc>
     <lastmod>2017-08-21T11:57:40+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://chardea7.github.io/stare-industry/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/post/</loc>
-    <lastmod>2017-08-21T11:57:40+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.org/</loc>
+    <loc>https://chardea7.github.io/stare-industry/post/</loc>
     <lastmod>2017-08-21T11:57:40+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://chardea7.github.io/stare-industry/</loc>
+    <lastmod>2017-08-21T11:57:40+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chardea7.github.io/stare-industry/tags/</loc>
     <priority>0</priority>
   </url>
   

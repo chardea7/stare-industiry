@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://chardea7.github.io/stare-industiry/"
+baseURL = "https://chardea7.github.io/stare-industry/"
 publishDir = "docs"
 languageCode = "en-us"
 title = "STARE"
